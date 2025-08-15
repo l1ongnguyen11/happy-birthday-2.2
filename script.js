@@ -28,7 +28,7 @@ class BirthdayWebsite {
                 id: 4,
                 src: './img4.jpg',
                 title: 'Bữa tối kỷ niệm',
-                description: 'Ngày đặc biệt được đánh dấu bằng bàn ăn đầy đầy tình cảm.',
+                description: 'Ngày đặc biệt được đánh dấu bằng bàn ăn đầy tình cảm.',
                 date: 'Tối kỷ niệm'
             },
             {
